@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin-MVVM-Museum</string>
+    <string name="empty_list">No Museums Found!</string>
+    <string name="an_error_occurred">An Error Occurred</string>
+</resources>
